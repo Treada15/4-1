@@ -191,6 +191,7 @@ body {
 .hero-button-item:hover,
 .hero-button-item:focus {
   background-color: var(--second-button-color);
+  color: var(--first-text-color);
   
 }
 /*--about--*/
@@ -333,9 +334,7 @@ body {
 .contacs-container {
     display: flex;
 }
-.footer-contacs{
-  
-}
+
 .contacs-text {
   font-family: Raleway;
   font-style: normal;
